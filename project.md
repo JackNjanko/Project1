@@ -1,4 +1,4 @@
-## Documentations of project1 Dario learning
+## Documentations of project1 Dario learning course
 
 `sudo apt update`
 
